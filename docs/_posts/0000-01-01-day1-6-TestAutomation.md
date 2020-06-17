@@ -2,7 +2,7 @@
 
 - Why we need to automate tests to run on the build pipeline?
 - What to consider when we run any tests automatically on pipelines
-- Test Results (Artefacts)
+- What do we do with Test Results (Artefacts)
 - Green Build vs Red Build
 
 ---
