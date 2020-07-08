@@ -5,7 +5,7 @@
 - What do we do with Test Results (Artefacts)
 - Green Build vs Red Build
 
----
+--
 
 ### Exercise
 
@@ -13,4 +13,4 @@
 - Build the application locally using command line
 - Run the tests using test runner from command line
 
----
+--
