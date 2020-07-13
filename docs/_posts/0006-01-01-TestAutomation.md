@@ -12,5 +12,3 @@
 - Add unit test to project
 - Build the application locally using command line
 - Run the tests using test runner from command line
-
---

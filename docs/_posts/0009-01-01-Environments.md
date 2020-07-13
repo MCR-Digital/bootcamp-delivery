@@ -10,5 +10,3 @@
 ### Exercise
 
 Create multiple config files (dev & qa) and run the applcation from the output dir published earlier with relevent config setting from the local machine and demonstrate the difference
-
---
