@@ -17,14 +17,27 @@ Given the below system and release process
 - 1 Database
 - 1 VM hosting website
 
+![Live-Dev Diagram](Exercise.svg)
+
+
 ### Deployment Process:
-- Use a comparison tool to compare sql
-- Make a copy of every change to schema in scripts to be run against live
-- Run scripts in correct order against DB
-- Use load balancer to point all public traffic to 1 website and office traffic to other
-- Log into VM
-- Zip old code as a backup
-- Copy up published code files
-- Test site from office IP
-- If working switch traffic and repeat to second VM
-- If not revert code and cancel deployment
+1. Open Database comparison tool
+	1. Compare Dev database to Prod Database  
+	1. Make a copy of all sql scripts required to update Prod’s schema
+1. Run generated scripts against Prod DB
+1. If needed add any required Data to changed tables from pre-prepared sql script
+1. Route all normal traffic to Web App 1 in load balancer
+1. Route all traffic from developers' machines to Web App 2
+1. Remote into Web App 2
+   1. Create a zip backup of old code
+   1. Copy up new published code
+   1. Run manual tests against Web App 2
+1. If Web app 2 is working
+	1. Route all normal traffic to Web App 2 in load balancer
+    1. Route all dev traffic to Web App 1
+    1. Repeat step 6 to Web App 1
+1. If Web App 2 is not working
+   1. Delete new files
+   1. Copy old files back
+   1. Check app is working
+1. Revert load balancer to normal configuration of splitting traffic
