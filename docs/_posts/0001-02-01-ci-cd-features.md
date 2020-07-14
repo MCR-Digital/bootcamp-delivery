@@ -30,5 +30,3 @@ Continuous Delivery adds that the software can be released to production at any 
 ### Continuous Deployment
 
 Continuous Deployment goes further and pushes changes to production automatically.
-
---
