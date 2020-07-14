@@ -1,31 +1,59 @@
-### Pipeline?
-
-Types of pipelines
+### Pipelines?
 
 - Build Pipeline
-- Staging
-- production
+
+  (Covered in CI bootcamp back in January, builds a tested + packaged artifact ready to be deployed when required)
+
+- Release Pipeline
+
+  (Deploys packaged code held in artifact to environments)
 
 --
 
-### Pipeline metaphor
+![Example](images/pipelines/simple-release-pipeline.png)
 
 --
 
-### Pipeline best practices
+### Features of release pipelines
 
---
-
-### Pipeline Components
-
-- Pipeline Version
+- Artifacts
 - Stages
 - Jobs
 - Tasks
+- Approvals/Conditions
+- Tests
+- Notifications
 
 --
 
-### Pipeline WorkFlow
+### Some Benefits
 
-- Example of a pipeline?
-- How mulptiple pipelines can be chained
+- Repeatable
+- Improvabe
+- Self documenting
+- Tests, approvals, notifcations etc
+
+--
+
+![History Example](images/pipelines/release-history.png)
+
+--
+
+### History benefits
+
+- May be possible to redeploy previous release if something has gone wrong
+- Provides information regarding checks if something goes wrong (again with history of approvals and tests performed)
+- Quick view of what's been deployed to where
+- Can be used to analyse and improve deployment process
+
+--
+
+![Region example](images/pipelines/regions.png)
+
+--
+
+### Why they help when things get complicated
+
+- Multiple stages with different regions
+- Different stages can have different release builds at the same time
+- Release pipeline could have multiple artifacts which need to be approved, released and tested before next artifact
