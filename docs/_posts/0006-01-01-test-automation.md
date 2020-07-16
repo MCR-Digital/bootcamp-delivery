@@ -1,14 +1,13 @@
-### Automation
+### Test Automation
 
-- Why we need to automate tests to run on the build pipeline?
-- What to consider when we run any tests automatically on pipelines
-- What do we do with Test Results (Artefacts)
-- Green Build vs Red Build
+Read [chapter four of the Continuous Delivery book](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch04.html) which describes how to implement a testing strategy.
+
+Read [chapter eight of the Continous Delivery book](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch08.html) to understand the role of automated testing to ensure releases are acceptable.
 
 --
 
-### Exercise
+### Research Tasks
 
-- Add unit test to project
-- Build the application locally using command line
-- Run the tests using test runner from command line
+* What do you need to consider when tests are run automatically on pipelines?
+* How are test results made available?
+* What testing tools do you use for acceptance testing?
