@@ -2,7 +2,7 @@
 
 > Build Once, Deploy Many
 
-Read the ‘Dependencies’ section from [Continuous Delivery Chapter 13](https://learning.oreilly.com/library/view/Continuous+Delivery:+Reliable+Software+Releases+through+Build,+Test,+and+Deployment+Automation,+Video+Enhanced+Edition/9780321670250/ch13.html#ch13)
+Read the ‘Dependencies’ section from [Continuous Delivery Chapter Thirteen](https://learning.oreilly.com/library/view/Continuous+Delivery:+Reliable+Software+Releases+through+Build,+Test,+and+Deployment+Automation,+Video+Enhanced+Edition/9780321670250/ch13.html#ch13)
 
 --
 

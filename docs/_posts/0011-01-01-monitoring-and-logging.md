@@ -41,7 +41,7 @@ Not the clearest description!
 
 ## Some reading to do
 
-The ‘Monitoring infrastructure and applications’ section of [Continuous Delivery Chapter 11](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch11.html#page_318) has some background around this subject.
+The ‘Monitoring infrastructure and applications’ section of [Continuous Delivery Chapter Eleven](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/ch11.html#page_318) has some background around this subject.
 
 --
 
