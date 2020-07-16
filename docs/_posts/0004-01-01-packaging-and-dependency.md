@@ -1,14 +1,13 @@
 ### Package and Dependency Management
 
-- What are application dependencies?
-- Why we need them?
-- How do we install/restore them?
-- Different types package management tools?
+Read the ‘Dependencies’ section from [Continuous Delivery Chapter 13](https://learning.oreilly.com/library/view/Continuous+Delivery:+Reliable+Software+Releases+through+Build,+Test,+and+Deployment+Automation,+Video+Enhanced+Edition/9780321670250/ch13.html#ch13)
 
 --
 
-### Exercise
+### Things to make sure you understand
 
-- Create App in chosen language
-- Install a package using PackageManager
-- Clean the project bin/package folder and demonstate what restore package does?
+* What are application dependencies?
+* Why do you need them?
+* How do you install/upgrade/remove them?
+* What tools do you use to manage dependencies?
+* Why are dependencies important for security? 
