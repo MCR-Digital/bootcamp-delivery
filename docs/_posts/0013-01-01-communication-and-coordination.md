@@ -6,9 +6,9 @@
 #### Assessed Requirements
 
 > Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
-  - developing appropriate user documentation 👍
-  - planning for user training 👍
-  - data migration
+> - developing appropriate user documentation ⬅️
+> - planning for user training ⬅️
+> - data migration
 
 --
 
@@ -32,7 +32,7 @@ You may even write release notes—these are still very important with libraries
 
 --
 
-### Research tasks (continued)
+### Research tasks… continued
 
 * Read the release notes for the current version of the framework you use most often
     * Note how they are (hopefully) written so that you understand them without reading code

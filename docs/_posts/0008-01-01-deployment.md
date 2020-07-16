@@ -7,10 +7,10 @@
 ### TC8: Deployment
 #### Assessed Requirements
 
-+ Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
-    + developing appropriate user documentation
-    + planning for user training
-    + data migration ⬅️
+> Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
+> - developing appropriate user documentation
+> - planning for user training
+> - ***data migration***
 
 --
 
@@ -29,6 +29,11 @@
     * Is there a team who build tools or manage a platform for you?
     * What is your operations team’s biggest pain point with your software?
 * How should you manage data migrations (making changes to the database structure or contents) safely as part of application deployments?
+
+--
+
+### Research tasks… continued
+
 * Where does your software run?
     * Does your organisation have its own servers?
     * Does it have a contract with a hosting company?

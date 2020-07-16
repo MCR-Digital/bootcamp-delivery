@@ -11,9 +11,9 @@
 ### TC12: Respond to Business Environment
 #### Assessed Requirements
 
-Apprentices can apply the following considerations when working on projects:
-* business context
-* business drivers (efficiency gains, increased functionality and
+> Apprentices can apply the following considerations when working on projects:
+> * business context
+> * business drivers (efficiency gains, increased functionality and
 improved quality of outputs)
 
 --

@@ -33,7 +33,7 @@ These are some common features of CD pipelines.
 
 --
 
-### Research tasks (continued)
+### Research tasks… continued
 
 * What should you do when the pipeline fails?
     * How can you get notifications if you cause the build to fail?

@@ -16,9 +16,9 @@
 #### Assessed Requirements
 
 > Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
-  - developing appropriate user documentation
-  - planning for user training
-  - data migration
+> - developing appropriate user documentation
+> - planning for user training
+> - data migration
 
 --
 
