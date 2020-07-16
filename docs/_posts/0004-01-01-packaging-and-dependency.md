@@ -4,10 +4,12 @@ Read the ‘Dependencies’ section from [Continuous Delivery Chapter 13](https:
 
 --
 
-### Things to make sure you understand
+### Research tasks
 
+* Where are your built packages stored?
+    * e.g. Node registry, Docker registry…
 * What are application dependencies?
 * Why do you need them?
 * How do you install/upgrade/remove them?
 * What tools do you use to manage dependencies?
-* Why are dependencies important for security? 
+* Why are dependencies important for security?
