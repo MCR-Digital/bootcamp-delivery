@@ -15,10 +15,10 @@
 ### TC8: Deployment
 #### Assessed Requirements
 
-+ Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
-    + developing appropriate user documentation
-    + planning for user training
-    + data migration
+> Apprentices can package and build completed programs as appropriate to the resources available for deployment and for migration to different environments, including:
+  - developing appropriate user documentation
+  - planning for user training
+  - data migration
 
 --
 
@@ -67,6 +67,12 @@ By Jez Humble, David Farley
 + But, it was written in 2010, so the technologies have all changed
 + Core concepts are still valid though
 + The book has a [companion website](https://continuousdelivery.com/)
+
+--
+
+### How much to read?
+
+We will give you specific chapters / sections of the book to read. But if you find you follow it, then it is a good book to read cover to cover (and to dip into).
 
 --
 
